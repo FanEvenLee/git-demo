@@ -10,5 +10,5 @@ hello git hello evenLee!
 hello git hello evenLee!
 hello git hello evenLee!
 hello git hello evenLee!
-hello git hello evenLee! changed master branch test
-hello git hello evenLee!
+hello git hello evenLee! changed maste branch test
+hello git hello evenLee! hot-fix changed test
